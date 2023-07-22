@@ -1,6 +1,7 @@
 # kings-script
 a langeuge based on javascript,assembly and c++
-you can use it for anything you want,espically if you dont know how to code
+you can use it for anything you want,espically if you dont know how to code                                  ![images](https://github.com/starryskies2/kings-script/assets/68811070/3ae15780-caab-4805-a037-2a930439a544)
+
 
 first and foremost the variables used in KS
 ## Declarations
