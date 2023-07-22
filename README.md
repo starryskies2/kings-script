@@ -11,7 +11,7 @@ soilder, takes ONLY numbers,no floating numbers are needed in the kings guard so
 knight,takes a string value,however every string has to start with a sir AS PART OF THE STRING,for example:
 ```java
 knight= "sir hello world"
-using "hello world" will return an error since the string does not starts with sir,and the variable is insulted
+using "hello world" will return an error since the string does not starts with sir
 knight= sir "hello world" will not work either as it isnt part of the string 
 ```
 
@@ -24,5 +24,6 @@ Feed horse= true
 ```java
 buy market=[1,2,sir fatty,dead king,long live the queen]
 ```
-
-
+## Functions
+## Import/Export
+## Loops
