@@ -27,6 +27,13 @@ buy market=[1,2,sir fatty,dead king,long live the queen]
 ## Functions
 ## Import/Export
 ## Loops
-
+## send pigeon/recive pigeon
+fetch is wildly used in JavaScript to recive data from servers or to send ,however we feel like its too modern for our taste
+as such we changed it to " send/recive pigeon" it should work like this
+however there is a tricky part,since you send a pigeon it might die on the way,or lose its way so,if you send a pigeon requst it might fail
+and will result the code jumping somwhere else and excecuting from there
+```java
+ send pigeon=`https://www.timeapi.io/api/Time/current/zone?timeZone=NewYork`
+```
 
    ![images](https://github.com/starryskies2/kings-script/assets/68811070/3ae15780-caab-4805-a037-2a930439a544)
