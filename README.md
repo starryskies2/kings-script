@@ -1,7 +1,6 @@
-# kings-script
+# kings-script                                                                               
 a langeuge based on javascript,assembly and c++
-you can use it for anything you want,espically if you dont know how to code                                  ![images](https://github.com/starryskies2/kings-script/assets/68811070/3ae15780-caab-4805-a037-2a930439a544)
-
+you can use it for anything you want,espically if you dont know how to code                                                                                      
 
 first and foremost the variables used in KS
 ## Declarations
@@ -28,3 +27,6 @@ buy market=[1,2,sir fatty,dead king,long live the queen]
 ## Functions
 ## Import/Export
 ## Loops
+
+
+   ![images](https://github.com/starryskies2/kings-script/assets/68811070/3ae15780-caab-4805-a037-2a930439a544)
